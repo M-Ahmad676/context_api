@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../Components/Navbar'
 import Cards from '../Components/Cards'
-import CartProvider, {cartContext} from '../Components/Context/Context'
+import CartProvider from '../Components/Context/Context'
 
 export default function StorePage() {
   return (
